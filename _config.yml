@@ -1,0 +1,46 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl: 
+url: http://biography.qingtian16265.com
+date_format: "ordinal"
+title: 晴天的自传
+author: qingtian16265
+
+# ---------------- #
+#   RSS / Email    #
+# ---------------- #
+subscribe_rss: /feed.xml
+email:
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+markdown: kramdown
+kramdown:
+    input: GFM
+paginate: 9
+permalink: /:year/:month/:day/:title/
+gems:
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+# ---------------- #
+#      Comments    #
+# ---------------- #
+# support provider: gitalk
+comments_provider: gitalk
+# https://github.com/gitalk/gitalk#install
+gitalk:
+    owner: qingtian
+    repo: biography
+    clientID: ead7cbc0a6689f1d3faa
+    clientSecret: bb6d9d99a276d4c49f60b738b2a8c187bea9c491
+# 在使用其它评论组件时可点击显示 Disqus
+lazy_load_disqus : false
