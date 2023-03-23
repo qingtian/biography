@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 章节
+title: 分类
 description: 本自传所有章节列表。
 keywords: 分类
 permalink: /categories/
