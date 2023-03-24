@@ -4,6 +4,7 @@ title: 章节
 description: 本自传所有章节列表。
 keywords: 分类
 permalink: /categories/
+valine-path: '/categories/'
 ---
 
 <div class='tag_cloud'>
