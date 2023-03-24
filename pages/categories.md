@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 章节
 description: 本自传所有章节列表。
 keywords: 分类
