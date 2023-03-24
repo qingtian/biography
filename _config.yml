@@ -31,16 +31,12 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-# ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: gitalk
-comments_provider: gitalk
-# https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: qingtian
-    repo: biography
-    clientID: ead7cbc0a6689f1d3faa
-    clientSecret: bb6d9d99a276d4c49f60b738b2a8c187bea9c491
-# 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+# ga
+# ga_track_id: 'UA-34691518-1'
+# ga_domain: biography.qingtian16265.com
+
+# Valine
+valine: true
+valine_appKey: 6Hijfd4o7BMqB5O0VXkfiaai-gzGzoHsz
+valine_appSecret: SNCG3UBBiEUjg29wB2lPJG2h
+valine_placeHolder: 快来发表一下你的看法吧！

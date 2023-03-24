@@ -4,6 +4,7 @@ title: 小时候的生活
 categories: [生活, 小时候]
 description: 小时候的生活
 keywords: 小时候, 生活
+valine-path: '/2023/03/22/life-as-a-child/'
 ---
 
 ### 出生

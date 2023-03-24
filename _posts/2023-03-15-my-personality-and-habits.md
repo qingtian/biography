@@ -4,6 +4,7 @@ title: 我的性格与习惯
 categories: [性格, 习惯]
 description: 我的性格与习惯
 keywords: 性格, 习惯
+valine-path: '/2023/03/15/my-personality-and-habits/'
 ---
 
 ### 性格

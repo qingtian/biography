@@ -4,6 +4,7 @@ title: 工作变迁
 categories: [工作, 变迁]
 description: 工作变迁
 keywords: 工作, 变迁
+valine-path: '/2023/03/24/job-changes/'
 ---
 
 我是从2011年7月从浙江工业大学软件工程专业毕业的。至今12年的工作经历中，一共呆过两家公司，它们分别是：杰唐和网易。
