@@ -216,3 +216,11 @@ td {
 tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
+
+.leancloud_visitors{
+  font-size: 12px;
+  text-align: right;
+  display: block;
+  color: #999;
+  margin-top: 5px;
+}

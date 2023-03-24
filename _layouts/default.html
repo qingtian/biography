@@ -2,10 +2,6 @@
 <div class="container">
     {% include navigation.html %}
     <div class="main">
-        <span id="{{ page.valine-path }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">
-            <span>访问量：</span>
-            <span class="leancloud-visitors-count">0</span> 人次
-        </span>
         <h2> {% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif %} </h2>
         {{ content }}
     </div>
