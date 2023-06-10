@@ -32,8 +32,7 @@ collections:
         permalink: /wiki/:path/
 
 # ga
-# ga_track_id: 'UA-34691518-1'
-# ga_domain: biography.qingtian16265.com
+ga_track_id: 'G-1QLHDDRTKQ'
 
 # Valine
 valine: true
